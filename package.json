@@ -1,0 +1,17 @@
+{
+  "name": "m3-custom-bootstrap",
+  "version": "1.0.0",
+  "description": "Proyecto de ejemplo Bootstrap custom",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "boostrap"
+  ],
+  "author": "Esteban Silva",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.3"
+  }
+}
